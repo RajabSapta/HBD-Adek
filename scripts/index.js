@@ -24,7 +24,7 @@ function validateForm() {
     Swal.fire({
       icon: "error",
       title: "Login gagal!",
-      text: "Coba pakai nama adek dan tanggal lahir:)",
+      text: "Coba pakai nama adek dan tanggal lahir, SALAH TERUS YA ADEK:)",
       confirmButtonText: "Coba lagi",
       confirmButtonColor: "#ff7675",
     });
